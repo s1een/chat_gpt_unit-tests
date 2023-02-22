@@ -30,7 +30,7 @@ For install this package: `$ npm install --save-dev jest`
 ```
 ### Project Structure:
 Automated tests are usually placed into the `__tests__` folder.
-```console
+```ruby
     ├── ...
     ├── __tests__                       # tests folder
     │   ├── your_test.test.js           # Test FIle
@@ -82,7 +82,7 @@ describe("startTimeTransfer function", () => {
 ```
 ### Tests Run
 Finally, `npm run test` and Jest will print this message:
-```console
+```ruby
 PASS  __tests__/handebar-helpers.test.js
 ```
 ### Errors

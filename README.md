@@ -1,26 +1,22 @@
 ### About
-
-- This is my research abount using chatGPT for write unit-tests in jest.
-- Its guide how u can use this bot for write perfect tests.
+- This is my research on using Chatgpt to record testing on Jest.
+- It's a guide how you can use this bot to write perfect tests.
 - Chat GPT [Chat GPT site](https://chat.openai.com/chat "Click here..").
 
 # Chat GPT for Unit-tests JS
 
 ![](https://www.atriainnovation.com/wp-content/uploads/2023/01/Portada-1080x675.jpg)
 
-## Technologies used in the research:
+## Technologies used in this research:
 
 - [![express][express.js]][express-url]
 - [![npm][npm.com]][npm-url]
 - [![jest][jest.com]][jest-url]
 
-## Jest
-
-The app use jest  `v. 29.4`
-
-`$ npm install --save-dev jest`
-
 ## Setup
+The app use **JEST**  `v. 29.4`
+
+For install this package: `$ npm install --save-dev jest`
 ### package.json
 ```javascript
  "scripts": {

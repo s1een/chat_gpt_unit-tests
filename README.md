@@ -181,6 +181,11 @@ describe('concatArray', () => {
 >
 > **A:** **Wait**...
 
+### You too smart
+> **Q: Sometimes the proposed tests check the functionality of the program that was not thought out, which helps to immediately correct errors.**
+>
+> **A:** He helped me fix several functions,also you can refactor the functions.
+
 ## Results
 ```ruby
 Test Suites: 6 passed, 6 total

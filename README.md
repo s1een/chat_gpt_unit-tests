@@ -185,6 +185,15 @@ describe('concatArray', () => {
 >
 > **A:** **Wait**...
 
+## Results
+```ruby
+Test Suites: 6 passed, 6 total
+Tests:       106 passed, 106 total
+Snapshots:   0 total
+Time:        3.735 s, estimated 4 s
+Ran all test suites.
+```
+
 ## Acknowledgments
 Resources that helped me in development.
 

@@ -1,5 +1,5 @@
 ### About
-- This is my research on using Chatgpt to record testing on Jest.
+- This is my research on using Chatgpt for testing on Jest.
 - It's a guide how you can use this bot to write perfect tests.
 - Chat GPT [Chat GPT site](https://chat.openai.com/chat "Click here..").
 
